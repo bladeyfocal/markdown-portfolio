@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#Thorsten
+##an awesome guy
+######Notice the terms

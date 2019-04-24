@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Bild des HT](http://www.ht-uhingen-holzhausen.de/wp-content/uploads/2017/07/HT_Titelseite_V2.jpg)
